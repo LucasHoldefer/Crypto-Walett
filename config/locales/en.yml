@@ -1,0 +1,25 @@
+en:
+  current_locale: "English"
+  welcome: "Welcome"
+  messages:
+    welcome: "This is the Cripto Wallet, an application for registering and tracking Cripto Coins"
+    menu: "To start, select one of the options below:"
+    confirm: "Are you sure?"
+  hello: "Hello world"
+  links:
+    edit: "Edit"
+    show: "Show"
+    delete: "Delete"
+    new: "New"
+    back: "Back"
+    update: "Update"
+  new:
+    coin: "New Coin"
+    mining_type: "New Mining Type"
+  editing:
+    coin: "Editing Coin"
+    mining_type: "Editing Mining Type"
+  showing:
+    coin: "Showing Coin"
+    mining_type: "Showing Mining Type"
+
