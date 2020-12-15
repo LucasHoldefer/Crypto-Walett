@@ -1,24 +1,42 @@
-# README
+<h1 align="center">
+  Crypto Walett
+</h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 📖 Sobre 
 
-Things you may want to cover:
+Este é um projeto desenvolvido durante o curso **[Ruby on Rails 5.x ](https://www.udemy.com/course/rubyonrails-5x/)**
 
-* Ruby version
+A proposta do projeto é uma aplicação onde há perguntas e respostas, e o usuário pode responde-las e acompanhar seu desempenho.
 
-* System dependencies
+--- 
 
-* Configuration
+## 🚀 Tecnologias utilizadas
 
-* Database creation
+O projeto está desenvolvido utilizando as seguintes tecnologias:
 
-* Database initialization
+- Ruby on Rails
+- HTML
+- CSS
+- JavaScript
+- SQLite 
 
-* How to run the test suite
+--- 
 
-* Services (job queues, cache servers, search engines, etc.)
+## ⌨ Como executar o projeto
 
-* Deployment instructions
+```bash
+# Clonar o repositório
+git clone https://github.com/LucasHoldefer/Crypto-Walett.git
 
-* ...
+# Entrar no diretório
+cd Crypto-Walett
+
+# Baixar as dependências
+yarn install
+
+# Executar o servidor
+rails s
+```
+
+Feito isso, abra o seu navegador e acesse `http://localhost:3000/`
+
