@@ -6,7 +6,7 @@
 
 Este é um projeto desenvolvido durante o curso **[Ruby on Rails 5.x ](https://www.udemy.com/course/rubyonrails-5x/)**
 
-A proposta do projeto é uma aplicação onde há perguntas e respostas, e o usuário pode responde-las e acompanhar seu desempenho.
+A proposta do projeto foi dar uma introdução do Ruby on Rails. Na aplicação é possível fazer o cadastro, remoção, modificação e visualizar criptomoedas. 
 
 --- 
 
